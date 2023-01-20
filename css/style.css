@@ -1,0 +1,10 @@
+.biker-zone{
+    background-color: #ff00008a;
+}
+.footer-items{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    margin-left: 0;
+    width: 100%;
+}
